@@ -1,0 +1,56 @@
+.cnt {
+    padding-top: 10px;
+}
+.form-container {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.form-container button {
+    margin-left: 20px;
+}
+.label {
+    padding-right: 10px;
+}
+
+h2{margin-left: 1.5rem;}
+
+h1{    margin-left: 1rem;}
+
+
+button{
+    margin-left: 20px;
+    font-weight: bold;
+    border-radius: 0.3rem;
+    font-size: 1.8rem;
+   
+    }
+button:hover{
+    background-color: darkgrey;
+}
+
+.form-container{    background: gainsboro;
+    width: 50%;
+    border-radius: 1rem;
+    margin-left: 1rem;
+    padding: 1rem;}
+
+input{
+    font-size: 1.2rem;
+}
+
+.pelis{
+    display: flex;
+    flex-direction: column;
+    
+    margin: 1rem;
+    padding: 1rem;
+}
+
+label{    font-size: 1.6rem;
+    font-weight: bold;}
+
+a{  font-family: inherit;
+    font-size: 2rem;
+    text-decoration: none;}
