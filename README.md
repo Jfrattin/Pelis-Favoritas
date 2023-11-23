@@ -1,4 +1,4 @@
-Para ejecutar la app por favor asegurete de tener nodejs 16, luego descargue la app y ejecute:
+Para ejecutar la app por favor asegurese de tener nodejs 16, luego descargue la app y ejecute:
 
 
 -npm install-
